@@ -1,0 +1,50 @@
+{\rtf1\ansi\ansicpg1252\cocoartf907
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww15280\viewh16200\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc
+
+\f0\b\fs36 \cf0 NewMusic
+\b0\fs24 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural
+\cf0 \
+
+\b\fs28 \
+Objective
+\fs24 \
+\
+
+\b0 The NewMusic example shows how to use the PubSub API to create a browser for EMusic and iTunes Music Store new release feeds. It additionally exercises portions of the PubSub API pertaining to extension XML in feeds. It also demonstrates the use of CoreData, the use of value transformers, the implementation of a simple NSURLConnectionDelegate, and of the Image Kit \CocoaLigature0 IKImageBrowserView class.\CocoaLigature1 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\b\fs28 \cf0 Files of Interest
+\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\b0 \cf0 \
+Album class files - These files connect the PSEntry objects to the Album CoreData model.\
+\
+Client class files - These files manage PubSub subscriptions. Client is also a PSClient delegate.\
+\
+ContentFormatting class files - These files demonstrate the use of value transformers.\
+\
+CoverGridController class files - These files implement a subclass of IKImageBrowserView, the IKImageBrowserItem informal protocol, and the IKImageBrowserDelegate informal protocol. For more information on how to use the IKImageBrowserView class, see the Image Kit Programming Guide.\
+\
+Downloader class files - These files demonstrate the implementation of a simple \CocoaLigature0 NSURLConnectionDelegate class.\
+\CocoaLigature1 \
+InspectorController class files - These files implement the controller object for NewMusic's Inspector window.\
+\
+ITMSWatcher and EMusicWatcher class files - These files make use of the PubSub framework's support for extension XML elements in RSS and Atom feeds to handle the media-specific extension XML used by the iTunes Music Store and EMusic.\
+\
+MainMenu.nib - This interface file contains object and array controllers connected to the back end, that in turn provide information for UI elements including text fields and the image browser view.\
+\
+NewMusic.xcdatamodel - This is the application's CoreData data model.\
+\
+Storage class files - These files demonstrate CoreData concepts related to NSPersistentStoreCoordinator, NSManagedObjectModel, and NSManagedObjectContext.\
+\
+SubscriptionsController class files - These files implement the controller object for NewMusic's subscriptions sheet.\
+\
+WatcherApp class files - These files carry out general UI tasks in the NewMusic application, with IBOutlet instance variables tied to the different pieces of user interface in MainMenu.nib. WatcherApp is an NSApplication delegate.}

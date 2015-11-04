@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eMusic — Alternative / Punk</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000284+63/0.html</string>
+	<key>eMusic — Blues</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000292+63/0.html</string>
+	<key>eMusic — Classical</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000279+63/0.html</string>
+	<key>eMusic — Country / Folk</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000286+63/0.html</string>
+	<key>eMusic — Electronic</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000281+63/0.html</string>
+	<key>eMusic — Hip-Hop / R&amp;B</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000282+63/0.html</string>
+	<key>eMusic — International</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000288+63/0.html</string>
+	<key>eMusic — Jazz</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000291+63/0.html</string>
+	<key>eMusic — New Age</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000287+63/0.html</string>
+	<key>eMusic — Rock / Pop</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000277+63/0.html</string>
+	<key>eMusic — Soundtracks / Other</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000289+63/0.html</string>
+	<key>eMusic — Spiritual</key>
+	<string>http://www.emusic.com/rss/0/b/-n/a/0-25/1200000290+63/0.html</string>
+	<key>iTunes — Alternative</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=20/limit=25/rss.xml</string>
+	<key>iTunes — Blues</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=2/limit=25/rss.xml</string>
+	<key>iTunes — Children's Music</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=4/limit=25/rss.xml</string>
+	<key>iTunes — Classical</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=5/limit=25/rss.xml</string>
+	<key>iTunes — Comedy</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=3/limit=25/rss.xml</string>
+	<key>iTunes — Country</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=6/limit=25/rss.xml</string>
+	<key>iTunes — Dance</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=17/limit=25/rss.xml</string>
+	<key>iTunes — Electronic</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=7/limit=25/rss.xml</string>
+	<key>iTunes — Folk</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=10/limit=25/rss.xml</string>
+	<key>iTunes — Hip-Hop / Rap</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=18/limit=25/rss.xml</string>
+	<key>iTunes — Jazz</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=11/limit=25/rss.xml</string>
+	<key>iTunes — New Age</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=13/limit=25/rss.xml</string>
+	<key>iTunes — Pop</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=14/limit=25/rss.xml</string>
+	<key>iTunes — R&amp;B / Soul</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=15/limit=25/rss.xml</string>
+	<key>iTunes — Rock</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=21/limit=25/rss.xml</string>
+	<key>iTunes — Soundtrack</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=16/limit=25/rss.xml</string>
+	<key>iTunes — World Music</key>
+	<string>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/justadded/sf=143441/genre=19/limit=25/rss.xml</string>
+</dict>
+</plist>
